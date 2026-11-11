@@ -1,0 +1,6 @@
+username,password,expected
+user1,password1,Login successful
+user2,password2,Login successful
+user3,password3,Login successful
+user1,wrong,Login failed
+unknown,password1,Login failed
