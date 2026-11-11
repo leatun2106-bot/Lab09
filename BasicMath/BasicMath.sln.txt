@@ -1,0 +1,4 @@
+Tao solution bang lenh:
+  dotnet new sln -n BasicMath
+  dotnet sln add BasicMath/BasicMath.csproj BasicMathTests/BasicMathTests.csproj
+  dotnet test
